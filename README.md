@@ -1,4 +1,4 @@
-# 📖 AJAX - Axios
+# 📖 Axios
 
 Free fake API [{JSON} Placeholder](https://jsonplaceholder.typicode.com/users)
 [AXIOS CDN](https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js)
